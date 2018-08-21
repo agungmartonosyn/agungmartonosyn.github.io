@@ -14,7 +14,7 @@
 
     $subject = "You have a message from your Ramirez.";
 
-    $logo = 'http://srthemes.com/demo/ramirez/image/logo.png';
+    $logo = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbuGzkx7soo4BqiDp27nhzFuWDapUHJONFwzJ3UYKspSND8KFYw';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Agung Martono</title></head><body>";
